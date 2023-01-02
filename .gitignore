@@ -1,0 +1,13 @@
+/.idea/
+/logs/
+/node_modules/*
+/src/.env
+/src/public/uploads/*
+!/src/public/uploads/default/
+/package-lock.json
+/dist/*
+iaex_erp_dev.postman_collection.json
+.env
+/public/uploads/*
+!/public/uploads/default/
+deploy.sh
